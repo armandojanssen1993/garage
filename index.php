@@ -35,7 +35,7 @@ $results = $selectAll->fetchAll(PDO::FETCH_ASSOC);
             type
         </th>
         <th>
-            km
+            kmlkfnvfdlkvn
         </th>
     </tr>
     <?php foreach ($results as $result){
